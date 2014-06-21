@@ -1,4 +1,4 @@
-@import url("uniform.utopia.css");
+W@import url("uniform.utopia.css");
 
 /*
 FOLLOW THIS FORMAT:
@@ -910,7 +910,6 @@ div.uploader span.action
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    behavior: none;
 }
 
 .game-content form.change-kingdom #royal-commands table tbody td,
