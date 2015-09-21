@@ -207,6 +207,7 @@ body {
                         font-size: 22px;
                         margin-left: 0.4em;
                         margin-right: 0.4em;
+                        font-weight: normal;
                     }
 
                     #left-column #content-area .game-header a {
@@ -222,6 +223,7 @@ body {
                             font-size: 22px;
                             margin-left: 0.4em;
                             margin-right: 0.4em;
+                            font-weight: normal;
                         }
 
                     #left-column #content-area .game-header a:hover {
