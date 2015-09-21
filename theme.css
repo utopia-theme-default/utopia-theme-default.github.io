@@ -84,29 +84,38 @@ body {
                     }
 
                         #left-column #content-area .lobby-panel table {
-                            font-size: 2vw;
+                            font-size: 1.5vw;
                             color: #D0482E;
                             margin: 0;
                             padding: 0;
                             width: 100%;
                         }
 
+                            #left-column #content-area .lobby-panel table a {
+                                color: #7b7354;
+                                text-decoration: none;
+                            }
+
+                            #left-column #content-area .lobby-panel table a:hover {
+                                color: #000;
+                            }
+
                             #left-column #content-area .lobby-panel table th {
                                 margin: 0;
                                 padding: 0;
-                                font-size: 2vw;
+                                font-size: 1.5vw;
                             }
 
                             #left-column #content-area .lobby-panel table tr {
                                 margin: 0;
                                 padding: 0;
-                                font-size: 2vw;
+                                font-size: 1.5vw;
                             }
 
                             #left-column #content-area .lobby-panel table td {
                                 margin: 0;
                                 padding: 0;
-                                font-size: 2vw;
+                                font-size: 1.5vw;
                             }
 
                         #left-column #content-area .lobby-panel table .advice-message {
