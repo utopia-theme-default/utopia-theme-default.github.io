@@ -1,0 +1,89 @@
+
+/* Phone */
+@media (max-width: 767px) {
+    #header-logo {
+        width: 100%;
+        margin-left: 2em;
+    }
+        #header-navigation {
+            display: none;
+        }
+
+        #account-header div {
+            float: none;
+            clear: both;
+            margin-right: 1em !important;
+        }
+    #middle { 
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0.5em;
+    }
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+  #header {
+    width: 750px;
+  }
+    #header-logo {
+        width: 100%;
+        margin-left: 2em;
+    }
+        #header-navigation {
+            display: none;
+        }
+
+    #middle { 
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 750px;
+        margin-top: 0.5em;
+    }
+
+}
+
+/* Laptop */
+@media (min-width: 992px) {
+  #header {
+    width: 970px;
+  }
+      #header-logo {
+        width: 30%;
+    }
+        #header-navigation {
+            display: inline-block;
+        }
+
+    #middle { 
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 970px;
+        margin-top: 0.5em;
+    }
+}
+
+/* Full Width */
+@media (min-width: 1200px) {
+  #header {
+    width: 1170px;
+  }
+    #header-logo {
+        width: 33%;
+    }
+        #header-navigation {
+            display: inline-block;
+        }
+
+    #middle { 
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1170px;
+        margin-top: 0.5em;
+    }
+}
+
