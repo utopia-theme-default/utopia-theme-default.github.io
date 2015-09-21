@@ -82,8 +82,13 @@ body {
                         padding: 0;
                     }
 
+                        #left-column #content-area .lobby-panel table {
+                            font-size: 40px;
+                            color: #000;
+                        }
+
                         #left-column #content-area .lobby-panel h1 {
-                            font-size: 22px;
+                            font-size: 40px;
                         }
 
                             #left-column #content-area .lobby-panel h1 a {
