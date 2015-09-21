@@ -36,6 +36,7 @@ body {
                 height: 100%;
                 display: inline-block;
                 margin-right: 2em;
+                min-height: 3.5em;
             }
             
             #header-navigation {
