@@ -171,6 +171,7 @@ body {
                     background-color: white;
                     height: auto;
                     padding-left: 18em;
+                    padding-top: 0.2em;
                 }
 
                     #left-column #content-area #game-navigation div {
@@ -178,7 +179,7 @@ body {
                     }
 
                         #left-column #content-area #game-navigation div a {
-                            color: #000;
+                            color: #7b7354;
                             text-decoration: none;
                         }
 
