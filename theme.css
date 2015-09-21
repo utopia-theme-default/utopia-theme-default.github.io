@@ -70,23 +70,23 @@ body {
             display: block !important;
         }
 
-            #left-column div {
+            #middle #left-column div {
                 display: none !important;
             }
 
-                #left-column #content-area {
+                #middle #left-column #content-area {
                     display: block !important;
                     width: 100%;
                 }
 
-                    #left-column #content-area .lobby-panel {
+                    #middle #left-column #content-area .lobby-panel {
                         display: block !important;
                         width: 100%;
                         margin: 0;
                         padding: 0;
                     }
 
-                        #left-column #content-area .lobby-panel table {
+                        #middle #left-column #content-area .lobby-panel table {
                             font-size: 1.5vw;
                             color: #D0482E;
                             margin: 0;
@@ -94,58 +94,58 @@ body {
                             width: 100%;
                         }
 
-                            #left-column #content-area .lobby-panel table a {
+                            #middle #left-column #content-area .lobby-panel table a {
                                 color: #7b7354;
                                 text-decoration: none;
                             }
 
-                            #left-column #content-area .lobby-panel table a:hover {
+                            #middle #left-column #content-area .lobby-panel table a:hover {
                                 color: #000;
                             }
 
-                            #left-column #content-area .lobby-panel table th {
+                            #middle #left-column #content-area .lobby-panel table th {
                                 margin: 0;
                                 padding: 0;
                                 font-size: 1.5vw;
                             }
 
-                            #left-column #content-area .lobby-panel table tr {
+                            #middle #left-column #content-area .lobby-panel table tr {
                                 margin: 0;
                                 padding: 0;
                                 font-size: 1.5vw;
                             }
 
-                            #left-column #content-area .lobby-panel table td {
+                            #middle #left-column #content-area .lobby-panel table td {
                                 margin: 0;
                                 padding: 0;
                                 font-size: 1.5vw;
                             }
 
-                        #left-column #content-area .lobby-panel table .advice-message {
+                        #middle #left-column #content-area .lobby-panel table .advice-message {
                             display: block !important;
                         }
 
-                        #left-column #content-area .lobby-panel h1 {
+                        #middle #left-column #content-area .lobby-panel h1 {
                             font-size: 3.5vw;
                             margin-top: 2em;
                             margin-bottom: 1em;
                         }
 
-                            #left-column #content-area .lobby-panel h1 a {
+                            #middle #left-column #content-area .lobby-panel h1 a {
                                 color: #7b7354;
                                 text-decoration: none;
                             }
 
-                            #left-column #content-area .lobby-panel h1 a:hover {
+                            #middle #left-column #content-area .lobby-panel h1 a:hover {
                                 color: #000;
                                 text-decoration: none;
                             }
 
-                        #left-column #content-area .lobby-panel p {
+                        #middle #left-column #content-area .lobby-panel p {
                             text-align: left;
                         }
 
-                            #left-column #content-area .lobby-panel p a {
+                            #middle #left-column #content-area .lobby-panel p a {
                                 color: #7b7354;
                                 text-decoration: none;
                                 font-weight: normal;
@@ -154,16 +154,16 @@ body {
                                 line-height: 1.42857;
                             }
 
-                            #left-column #content-area .lobby-panel p a:hover {
+                            #middle #left-column #content-area .lobby-panel p a:hover {
                                 color: #000;
                             }
 
-                        #left-column #content-area .lobby-panel form {
+                        #middle #left-column #content-area .lobby-panel form {
                             float: left;
                             width: 100%;
                         }
 
-                #left-column #content-area #game-navigation {
+                #middle #left-column #content-area #game-navigation {
                     display: block !important;
                     width: 100%;
                     position: fixed;
@@ -178,18 +178,18 @@ body {
                     z-index: 9999999;
                 }
 
-                    #left-column #content-area #game-navigation .current-date {
+                    #middle #left-column #content-area #game-navigation .current-date {
                         color: #000;
                         font-weight: 700;
                         font-size: 16px;
                         margin-right: 0.5em;
                     } 
 
-                    #left-column #content-area #game-navigation div {
+                    #middle #left-column #content-area #game-navigation div {
                         display: inline-block !important;
                     }   
 
-                        #left-column #content-area #game-navigation div a {
+                        #middle #left-column #content-area #game-navigation div a {
                             color: #7b7354;
                             text-decoration: none;
                             font-size: 16px;
@@ -197,16 +197,16 @@ body {
                             margin-right: 0.2em;
                         }
 
-                        #left-column #content-area #game-navigation div a:hover {
+                        #middle #left-column #content-area #game-navigation div a:hover {
                             color: #000;
                         }
 
-                #left-column #content-area .game-header {
+                #middle #left-column #content-area .game-header {
                     display: block !important;
                     width: 100%;
                 }
 
-                    #left-column #content-area .game-header h1 {
+                    #middle #left-column #content-area .game-header h1 {
                         color: #7b7354;
                         font-size: 22px;
                         margin-left: 0.5em;
@@ -214,7 +214,7 @@ body {
                         font-weight: normal;
                     }
 
-                    #left-column #content-area .game-header a {
+                    #middle #left-column #content-area .game-header a {
                         color: #7b7354;
                         text-decoration: none;
                         font-size: 22px;
@@ -222,7 +222,7 @@ body {
                         margin-right: 0.5em;
                     }
 
-                        #left-column #content-area .game-header a h1 {
+                        #middle #left-column #content-area .game-header a h1 {
                             color: #7b7354;
                             font-size: 22px;
                             margin-left: 0.5em;
@@ -230,20 +230,20 @@ body {
                             font-weight: normal;
                         }
 
-                    #left-column #content-area .game-header a:hover {
+                    #middle #left-column #content-area .game-header a:hover {
                         color: #000;
                     }
 
-                        #left-column #content-area .game-header a h1:hover {
+                        #middle #left-column #content-area .game-header a h1:hover {
                             color: #000;
                         }
 
-                #left-column #content-area .game-content {
+                #middle #left-column #content-area .game-content {
                     display: block !important;
                     width: 100%;
                 }
 
-                    #left-column #content-area .game-content div {
+                    #middle #left-column #content-area .game-content div {
                         display: block !important;
                         width: 100%;
                     }
