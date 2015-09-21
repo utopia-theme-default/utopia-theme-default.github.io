@@ -8,7 +8,6 @@ body {
     line-height: 1.42857143;
     color: #000;
 }
-    
 
     /* Make the inner container full width */
     #inner-container {
@@ -73,7 +72,7 @@ body {
                     clear: both;
                 }
 
-        div:has(ins) {
+        #left-column:first-child {
             display: none !important;
         }
 
