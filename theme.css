@@ -83,12 +83,12 @@ body {
                     }
 
                         #left-column #content-area .lobby-panel table {
-                            font-size: 30px;
+                            font-size: 3vw;
                             color: #D0482E;
                         }
 
                         #left-column #content-area .lobby-panel h1 {
-                            font-size: 40px;
+                            font-size: 4vw;
                         }
 
                             #left-column #content-area .lobby-panel h1 a {
