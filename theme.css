@@ -160,14 +160,12 @@ body {
                             width: 100%;
                         }
 
-                    .advice-message { display: none !important; }
-                    .warning { display: none !important; }
-
-                #game-navigation {
-                    margin: 0 auto;
-                    margin-left: auto;
-                    margin-right: auto;
+                #left-column #content-area #game-navigation {
+                    display: block !important;
                 }
+
+            .advice-message { display: none !important; }
+            .warning { display: none !important; }
 
         #right-column { display: none !important; }
         
