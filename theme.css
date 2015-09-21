@@ -162,6 +162,14 @@ body {
 
                 #left-column #content-area #game-navigation {
                     display: block !important;
+                    width: 100%;
+                    position: fixed;
+                    bottom: 0px;
+                    right: 0;
+                    left: 0;
+                    text-align: left;
+                    background-color: white;
+                    height: auto;
                 }
 
                     #left-column #content-area #game-navigation div {
