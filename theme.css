@@ -233,6 +233,11 @@ body {
                         #left-column #content-area .game-header a h1:hover {
                             color: #000;
                         }
+
+                #left-column #content-area .game-content {
+                    display: block !important;
+                    width: 100%;
+                }
         
         .advice-message { display: none !important; }
         .warning { display: none !important; }
