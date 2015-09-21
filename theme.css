@@ -91,7 +91,7 @@ body {
                     }
 
                         #left-column #content-area .lobby-panel form {
-                            display: block !important;
+                            float: left;
                             width: 100%;
                         }
 
