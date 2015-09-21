@@ -1,25 +1,28 @@
 
 /* Phone */
 @media (max-width: 767px) {
-    #header-logo {
-        width: 100%;
-        margin-left: 2em;
+    body {
+        font-size: 20px;
     }
-        #header-navigation {
-            display: none;
+        #header-logo {
+            width: 100%;
+            margin-left: 2em;
         }
+            #header-navigation {
+                display: none;
+            }
 
-        #account-header div {
-            float: none;
-            clear: both;
-            margin-right: 1em !important;
+            #account-header div {
+                float: none;
+                clear: both;
+                margin-right: 1em !important;
+            }
+        #middle { 
+            margin: 0 auto;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 0.5em;
         }
-    #middle { 
-        margin: 0 auto;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0.5em;
-    }
 }
 
 /* Tablet */
