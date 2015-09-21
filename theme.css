@@ -90,14 +90,19 @@ body {
                         width: 100%;
                     }
 
-                        #left-column #content-area .lobby-panel a {
-                            color: #7b7354;
-                            text-decoration: none;
+                        #left-column #content-area .lobby-panel p {
+                            text-align: left;
                         }
 
-                        #left-column #content-area .lobby-panel a:hover {
-                            color: #000;
-                        }
+                            #left-column #content-area .lobby-panel p a {
+                                color: #7b7354;
+                                text-decoration: none;
+                                font-weight: 700;
+                            }
+
+                            #left-column #content-area .lobby-panel p a:hover {
+                                color: #000;
+                            }
 
                         #left-column #content-area .lobby-panel form {
                             float: left;
