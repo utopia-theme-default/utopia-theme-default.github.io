@@ -72,7 +72,7 @@ body {
                     clear: both;
                 }
 
-        #aswift_0_expand! {
+        #aswift_0_expand! > div {
             display: none !important;
         }
 
