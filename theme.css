@@ -238,6 +238,11 @@ body {
                     display: block !important;
                     width: 100%;
                 }
+
+                    #left-column #content-area .game-content div {
+                        display: block !important;
+                        width: 100%;
+                    }
         
         .advice-message { display: none !important; }
         .warning { display: none !important; }
