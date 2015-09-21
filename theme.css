@@ -61,7 +61,7 @@ body {
                 position: inherit;
             }
                 #account-header {
-                    position: inherit;
+                    position: inherit !important;
                     clear: both;
                 }
                     #account-header div {
