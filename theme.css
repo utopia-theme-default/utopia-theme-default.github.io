@@ -140,4 +140,6 @@ body {
                     margin-right: auto;
                 }
 
-                #adunit { display: none !important; }
+        #right-column { display: none !important; }
+        
+        #adunit { display: none !important; }
