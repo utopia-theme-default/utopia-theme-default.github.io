@@ -205,8 +205,8 @@ body {
                     #left-column #content-area .game-header h1 {
                         color: #7b7354;
                         font-size: 22px;
-                        margin-left: 0.4em;
-                        margin-right: 0.4em;
+                        margin-left: 0.5em;
+                        margin-right: 0.5em;
                         font-weight: normal;
                     }
 
@@ -214,21 +214,25 @@ body {
                         color: #7b7354;
                         text-decoration: none;
                         font-size: 22px;
-                        margin-left: 0.4em;
-                        margin-right: 0.4em;
+                        margin-left: 0.5em;
+                        margin-right: 0.5em;
                     }
 
                         #left-column #content-area .game-header a h1 {
                             color: #7b7354;
                             font-size: 22px;
-                            margin-left: 0.4em;
-                            margin-right: 0.4em;
+                            margin-left: 0.5em;
+                            margin-right: 0.5em;
                             font-weight: normal;
                         }
 
                     #left-column #content-area .game-header a:hover {
                         color: #000;
                     }
+
+                        #left-column #content-area .game-header a h1:hover {
+                            color: #000;
+                        }
         
         .advice-message { display: none !important; }
         .warning { display: none !important; }
