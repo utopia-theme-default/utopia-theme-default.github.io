@@ -89,6 +89,10 @@ body {
                             padding: 0;
                         }
 
+                        #left-column #content-area .lobby-panel table .advice-message {
+                            display: block !important;
+                        }
+
                         #left-column #content-area .lobby-panel h1 {
                             font-size: 3.5vw;
                             margin-top: 2em;
@@ -104,9 +108,6 @@ body {
                                 color: #000;
                                 text-decoration: none;
                             }
-
-                        .advice-message { display: none !important; }
-                        .warning { display: none !important; }
 
                         #left-column #content-area .lobby-panel p {
                             text-align: left;
@@ -129,6 +130,9 @@ body {
                             float: left;
                             width: 100%;
                         }
+
+                    .advice-message { display: none !important; }
+                    .warning { display: none !important; }
 
                 #game-navigation {
                     margin: 0 auto;
