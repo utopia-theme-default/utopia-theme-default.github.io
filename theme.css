@@ -60,15 +60,17 @@ body {
                 top: auto;
                 position: inherit;
             }
-                #account-header {
+
+                #account-header div {
+                    float: none;
+                    clear: both;
+                    margin-right: 10em;
+                }
+
+                #account-details {
                     position: inherit !important;
                     clear: both;
                 }
-                    #account-header div {
-                        float: none;
-                        clear: both;
-                        margin-right: 10em;
-                    }
 
         #aswift_0_expand {
             display: none !important;
