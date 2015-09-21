@@ -76,7 +76,7 @@ body {
             display: none !important;
         }
 
-            #content-area {
+            #left-column #content-area {
                 display: block !important;
                 width: 100%;
             }
