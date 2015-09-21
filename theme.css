@@ -82,6 +82,20 @@ body {
                         padding: 0;
                     }
 
+                        #left-column #content-area .lobby-panel h1 {
+
+                        }
+
+                            #left-column #content-area .lobby-panel h1 a {
+                                color: #7b7354;
+                                text-decoration: none;
+                            }
+
+                            #left-column #content-area .lobby-panel h1 a:hover {
+                                color: #000;
+                                text-decoration: none;
+                            }
+
                         #left-column #content-area .lobby-panel p {
                             text-align: left;
                         }
