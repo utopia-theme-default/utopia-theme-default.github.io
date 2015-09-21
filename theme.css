@@ -71,6 +71,7 @@ body {
                 }
 
                 #account-details {
+                    display: block !important;
                     position: inherit !important;
                     clear: both;
                 }
