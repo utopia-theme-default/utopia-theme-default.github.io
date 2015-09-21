@@ -62,9 +62,12 @@ body {
                 display: none !important;
             }
 
-
-        #left-column {
+        #middle div {
+            display: none !important;
+        }
+        #middle left-column {
             width: 100% !important;
+            display: block !important;
         }
 
             #left-column div {
