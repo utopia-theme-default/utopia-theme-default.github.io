@@ -90,6 +90,11 @@ body {
                         width: 100%;
                     }
 
+                        #left-column #content-area .lobby-panel form {
+                            display: block !important;
+                            width: 100%;
+                        }
+
                 #game-navigation {
                     margin: 0 auto;
                     margin-left: auto;
