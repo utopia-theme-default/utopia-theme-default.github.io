@@ -5,7 +5,7 @@
         font-size: 20px;
     }
         #header-logo {
-            width: 100%;
+            width: 50%;
             margin-left: 2em;
         }
             #header-navigation {
@@ -31,7 +31,7 @@
     width: 750px;
   }
     #header-logo {
-        width: 100%;
+        width: 50%;
         margin-left: 2em;
     }
         #header-navigation {
