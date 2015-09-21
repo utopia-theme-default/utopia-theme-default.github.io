@@ -77,7 +77,7 @@ body {
         }
 
             #content-area {
-                display: block;
+                display: block !important;
                 width: 100%;
             }
 
