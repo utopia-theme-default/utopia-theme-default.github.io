@@ -89,6 +89,8 @@ body {
 
                         #left-column #content-area .lobby-panel h1 {
                             font-size: 3.5vw;
+                            margin-top: 2em;
+                            margin-bottom: 1em;
                         }
 
                             #left-column #content-area .lobby-panel h1 a {
