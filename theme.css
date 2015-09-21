@@ -172,6 +172,7 @@ body {
                     height: auto;
                     padding-left: 1em;
                     padding-top: 0.2em;
+                    z-index: 9999999;
                 }
 
                     #left-column #content-area #game-navigation .current-date {
