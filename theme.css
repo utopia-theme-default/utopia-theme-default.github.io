@@ -105,6 +105,9 @@ body {
                                 text-decoration: none;
                             }
 
+                        .advice-message { display: none !important; }
+                        .warning { display: none !important; }
+
                         #left-column #content-area .lobby-panel p {
                             text-align: left;
                         }
