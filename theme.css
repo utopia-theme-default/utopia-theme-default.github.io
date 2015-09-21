@@ -197,7 +197,7 @@ body {
                             color: #000;
                         }
 
-                #left-column #content-area #game-navigation #game-header {
+                #left-column #content-area #game-navigation .game-header {
                     display: block !important;
                 }
 
