@@ -45,6 +45,7 @@ body {
                 #header-navigation a {
                     color: #7b7354;
                     text-decoration: none;
+                    margin-left: 1em;
                 }
 
                 #header-navigation a:hover {
