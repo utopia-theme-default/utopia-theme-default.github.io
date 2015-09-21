@@ -58,7 +58,7 @@ body {
 
             #id-shop-login-form { display: none; }
             #account-container {
-                width: 10%;
+                width: 100%;
                 color: #7b7354;
                 right: auto;
                 top: auto;
@@ -71,14 +71,14 @@ body {
                     clear: both; 
                     height: auto;
                     margin: 0;
-                    right: inherit;
-                    top: inherit;
-                    cursor: none;
-                    vertical-align: inherit;
+                    right: initial;
+                    top: initial;
+                    cursor: default;
+                    vertical-align: auto;
                     white-space: normal;
                     padding: 0;
                     font-weight: normal;
-                    position: inherit;                                       
+                    position: relative;                                       
                 }
 
                 #account-details {
