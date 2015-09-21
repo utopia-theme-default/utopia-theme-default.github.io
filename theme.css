@@ -199,6 +199,7 @@ body {
 
                 #left-column #content-area #game-navigation .game-header {
                     display: block !important;
+                    width: 100%;
                 }
 
                     #left-column #content-area #game-navigation #game-header a {
