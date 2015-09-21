@@ -72,6 +72,10 @@ body {
                     clear: both;
                 }
 
+        #aswift_0_expand! {
+            display: none !important;
+        }
+
         #aswift_0_expand {
             display: none !important;
         }
