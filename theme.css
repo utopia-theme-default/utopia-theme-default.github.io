@@ -8,15 +8,7 @@ body {
     line-height: 1.42857143;
     color: #000;
 }
-
-    /* Clear Divs */
-    div { 
-        height: 0px !important;
-        padding: 0 !important;
-        margin: 0 !important;
-        margin-left: 0 !important;
-        width: 0px !important;
-    }
+    
 
     /* Make the inner container full width */
     #inner-container {
