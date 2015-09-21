@@ -68,17 +68,7 @@ body {
             }
 
                 #account-header  {
-                    clear: both; 
-                    height: auto;
-                    margin: 0;
-                    right: initial;
-                    top: initial;
-                    cursor: default;
-                    vertical-align: auto;
-                    white-space: normal;
-                    padding: 0;
-                    font-weight: normal;
-                    position: relative;                                       
+                    display: none !important;                                  
                 }
 
                 #account-details {

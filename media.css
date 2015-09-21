@@ -4,20 +4,27 @@
     body {
         font-size: 20px;
     }
+
         #header-logo {
             width: 50%;
             margin-left: 2em;
             min-height: 6em !important;
         }
+
             #header-navigation {
                 display: none;
             }
 
-            #account-header div {
-                float: none;
-                clear: both;
-                margin-right: 1em !important;
+            #account-header {
+                display: none !important;
             }
+
+                #account-header div {
+                    float: none;
+                    clear: both;
+                    margin-right: 1em !important;
+                }
+
         #middle { 
             margin: 0 auto;
             margin-left: auto;
