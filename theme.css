@@ -197,12 +197,12 @@ body {
                             color: #000;
                         }
 
-                #left-column #content-area #game-navigation .game-header {
+                #left-column #content-area .game-header {
                     display: block !important;
                     width: 100%;
                 }
 
-                    #left-column #content-area #game-navigation #game-header a {
+                    #left-column #content-area .game-header a {
                         color: #7b7354;
                         text-decoration: none;
                         font-size: 16px;
@@ -210,7 +210,7 @@ body {
                         margin-right: 0.2em;
                     }
 
-                    #left-column #content-area #game-navigation #game-header a:hover {
+                    #left-column #content-area .game-header a:hover {
                         color: #000;
                     }
         
