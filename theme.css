@@ -173,7 +173,7 @@ body {
                 }
 
                     #left-column #content-area #game-navigation div {
-                        display: block !important;
+                        display: inline-block !important;
                     }
 
             .advice-message { display: none !important; }
