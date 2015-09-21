@@ -58,24 +58,9 @@ body {
 
             #id-shop-login-form { display: none; }
             #account-container {
-                width: 100%;
-                color: #7b7354;
-                right: auto;
-                top: auto;
-                display: block;
-                position: relative;
-                clear: both;
+                display: none !important;
             }
 
-                #account-header  {
-                    display: none !important;                                  
-                }
-
-                #account-details {
-                    display: block !important;
-                    position: inherit !important;
-                    clear: both;
-                }
 
         #left-column {
             width: 100% !important;
