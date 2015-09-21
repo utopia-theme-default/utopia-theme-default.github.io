@@ -170,11 +170,21 @@ body {
                     text-align: left;
                     background-color: white;
                     height: auto;
+                    padding-left: 18em;
                 }
 
                     #left-column #content-area #game-navigation div {
                         display: inline-block !important;
                     }
+
+                        #left-column #content-area #game-navigation div a {
+                            color: #000;
+                            text-decoration: none;
+                        }
+
+                        #left-column #content-area #game-navigation div a:hover {
+                            color: #000;
+                        }
 
             .advice-message { display: none !important; }
             .warning { display: none !important; }
