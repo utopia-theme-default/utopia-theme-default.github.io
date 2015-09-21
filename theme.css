@@ -34,6 +34,7 @@ body {
                 background: url(./images/logo_header.png) no-repeat top left;
                 height: 100%;
                 display: inline-block;
+                margin-right: 2em;
             }
             
             #header-navigation {
