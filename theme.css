@@ -72,17 +72,21 @@ body {
                     clear: both;
                 }
 
-        #left-column div {
-            display: none !important;
+        #left-column {
+            width: 100% !important;
         }
 
-            #left-column #content-area {
-                display: block !important;
-                width: 100%;
+            #left-column div {
+                display: none !important;
             }
 
-            #game-navigation {
-                margin: 0 auto;
-                margin-left: auto;
-                margin-right: auto;
-            }
+                #left-column #content-area {
+                    display: block !important;
+                    width: 100%;
+                }
+
+                #game-navigation {
+                    margin: 0 auto;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
