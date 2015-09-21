@@ -67,7 +67,7 @@ body {
                 }
 
         #aswift_0_expand {
-            display: none;
+            display: none !important;
         }
 
         #content-area {
