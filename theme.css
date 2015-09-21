@@ -76,13 +76,10 @@ body {
             display: none !important;
         }
 
-        #aswift_0_expand {
-            display: none !important;
-        }
-
-        #content-area {
-            width: 100%;
-        }
+            #content-area {
+                display: block;
+                width: 100%;
+            }
 
             #game-navigation {
                 margin: 0 auto;
