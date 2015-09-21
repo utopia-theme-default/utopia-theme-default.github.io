@@ -88,6 +88,8 @@ body {
                     #left-column #content-area .lobby-panel {
                         display: block !important;
                         width: 100%;
+                        margin: 0;
+                        padding: 0;
                     }
 
                         #left-column #content-area .lobby-panel p {
