@@ -8,6 +8,7 @@
 body {
     color: #000;
     background-color: #F2F2F2;
+    font-family: 'Quicksand', sans-serif;
 }
 
     /* Make the inner container full width */
@@ -367,7 +368,7 @@ body {
 
 
 h1 {
-	font-family: Times;
+	font-family: 'Quicksand', sans-serif;
 	font-size: 30px;
 	font-style: normal;
 	font-variant: normal;
@@ -375,7 +376,7 @@ h1 {
 	line-height: 33px;
 }
 h3 {
-	font-family: Times;
+	font-family: 'Quicksand', sans-serif;
 	font-size: 20px;
 	font-style: normal;
 	font-variant: normal;
@@ -383,7 +384,7 @@ h3 {
 	line-height: 22px;
 }
 p {
-	font-family: Times;
+	font-family: 'Quicksand', sans-serif;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -391,7 +392,7 @@ p {
 	line-height: 21px;
 }
 blockquote {
-	font-family: Times;
+	font-family: 'Quicksand', sans-serif;
 	font-size: 21px;
 	font-style: normal;
 	font-variant: normal;
