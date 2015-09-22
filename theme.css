@@ -209,6 +209,7 @@ body {
                 #middle #left-column #content-area .game-header {
                     display: block !important;
                     width: 100%;
+                    border-bottom: 1px solid #DDD;
                 }
 
                     #middle #left-column #content-area .game-header h1 {
