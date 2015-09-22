@@ -52,14 +52,14 @@ body {
             }
 
                 #header-navigation a {
-                    color: #7b7354;
+                    color: #FAB048;
                     text-decoration: none;
                     margin-left: 0.5em;
                     margin-right: 0.5em;
                 }
 
                 #header-navigation a:hover {
-                    color: #000;
+                    color: #ee7727;
                 }
 
             #id-shop-login-form { display: none; }
@@ -101,12 +101,12 @@ body {
                         }
 
                             #middle #left-column #content-area .lobby-panel table a {
-                                color: #7b7354;
+                                color: #FAB048;
                                 text-decoration: none;
                             }
 
                             #middle #left-column #content-area .lobby-panel table a:hover {
-                                color: #000;
+                                color: #ee7727;
                             }
 
                             #middle #left-column #content-area .lobby-panel table th {
@@ -138,12 +138,12 @@ body {
                         }
 
                             #middle #left-column #content-area .lobby-panel h1 a {
-                                color: #7b7354;
+                                color: #FAB048;
                                 text-decoration: none;
                             }
 
                             #middle #left-column #content-area .lobby-panel h1 a:hover {
-                                color: #000;
+                                color: #ee7727;
                                 text-decoration: none;
                             }
 
@@ -152,7 +152,7 @@ body {
                         }
 
                             #middle #left-column #content-area .lobby-panel p a {
-                                color: #7b7354;
+                                color: #FAB048;
                                 text-decoration: none;
                                 font-weight: normal;
                                 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -161,7 +161,7 @@ body {
                             }
 
                             #middle #left-column #content-area .lobby-panel p a:hover {
-                                color: #000;
+                                color: #ee7727;
                             }
 
                         #middle #left-column #content-area .lobby-panel form {
@@ -247,7 +247,7 @@ body {
                     }   
 
                         #middle #left-column #content-area #game-navigation div a {
-                            color: #7b7354;
+                            color: #FAB048;
                             text-decoration: none;
                             font-size: 16px;
                             margin-left: 0.2em;
@@ -255,7 +255,7 @@ body {
                         }
 
                         #middle #left-column #content-area #game-navigation div a:hover {
-                            color: #000;
+                            color: #ee7727;
                         }
 
                 #middle #left-column #content-area .game-header {
@@ -273,7 +273,7 @@ body {
                     }
 
                     #middle #left-column #content-area .game-header a {
-                        color: #7b7354;
+                        color: #FAB048;
                         text-decoration: none;
                         font-size: 22px;
                         margin-left: 0.4em;
@@ -281,7 +281,7 @@ body {
                     }
 
                         #middle #left-column #content-area .game-header a h1 {
-                            color: #7b7354;
+                            color: #FAB048;
                             font-size: 22px;
                             margin-left: 0.4em;
                             margin-right: 0.4em;
@@ -289,11 +289,11 @@ body {
                         }
 
                     #middle #left-column #content-area .game-header a:hover {
-                        color: #000;
+                        color: #ee7727;
                     }
 
                         #middle #left-column #content-area .game-header a h1:hover {
-                            color: #000;
+                            color: #ee7727;
                         }
 
                 #middle #left-column #content-area .game-content {
@@ -322,7 +322,7 @@ body {
                     }
 
                         #middle #left-column #content-area .game-content p a {
-                            color: #7b7354;
+                            color: #FAB048;
                             text-decoration: none;
                             font-size: 14px;
                             text-transform: capitalize;
@@ -331,7 +331,7 @@ body {
                         }
 
                         #middle #left-column #content-area .game-content p a:hover {
-                            color: #000;
+                            color: #ee7727;
                         }
 
                     #middle #left-column #content-area .game-content div {
