@@ -38,13 +38,11 @@
   #header {
     width: 750px;
   }
-
     #header a {
         display: inline-block;
-        width: 20%;
-        margin-left: 24%;                              
+        width: 35%;
+        margin-left: 5%;
     }
-
     #header-logo {
         width: 100%;
         margin-left: 2em;
@@ -53,7 +51,6 @@
             display: inline-block;
             width: 50%;
         }
-
     #middle { 
         margin: 0 auto;
         margin-left: auto;
@@ -61,7 +58,6 @@
         width: 750px;
         margin-top: 0.5em;
     }
-
 }
 
 /* Laptop */
