@@ -573,7 +573,7 @@ body {
                             padding-left: 0.5em;
                         }
 
-                       #middle #left-column #content-area .game-content table.tablesorter .even {
+                       #middle #left-column #content-area .game-content table.tablesorter tr:nth-child(even) { background: #eeeeee; } {
                             background-color: #eeeeee;
                         }
 
