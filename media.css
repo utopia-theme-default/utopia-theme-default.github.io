@@ -39,9 +39,9 @@
     width: 750px;
   }
     #header a {
-        display: inline-block;
-        width: 34%;
-        margin-left: 0%;
+        display: block;
+        width: 100%;
+        margin-left: 5em;
     }
     #header-logo {
         width: 100%;
