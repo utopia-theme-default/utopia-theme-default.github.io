@@ -545,15 +545,15 @@ body {
                         }
 
                       #middle #left-column #content-area .game-content table.tablesorter thead th {
-                            width: 11em;
+                            width: 12em;
                        }
 
                        #middle #left-column #content-area .game-content table.tablesorter thead td:first-child {
-                            width: 15%;
+                            width: 10%;
                        }
 
                        #middle #left-column #content-area .game-content table.tablesorter thead th:first-child {
-                            width: 15%;
+                            width: 10%;
                        }
 
                        #middle #left-column #content-area .game-content table.tablesorter thead tr th {
