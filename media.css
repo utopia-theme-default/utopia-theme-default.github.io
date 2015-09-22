@@ -36,7 +36,7 @@
 /* Tablet */
 @media (min-width: 768px) {
   #header {
-    width: 750px !important;
+    width: 100% !important;
     padding-bottom: 0em !important;
   }
     #header a {
@@ -69,7 +69,7 @@
 /* Laptop */
 @media (min-width: 992px) {
   #header {
-    width: 970px !important;
+    width: 100% !important;
   }
     #header a {
         display: inline-block;
@@ -100,7 +100,7 @@
 /* Full Width */
 @media (min-width: 1200px) {
   #header {
-    width: 1170px !important;
+    width: 100% !important;
   }
     #header-logo {
         width: 100%;
