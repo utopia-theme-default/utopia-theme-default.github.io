@@ -278,6 +278,13 @@ body {
                         margin: 0;
                         padding: 0;
                     }
+
+                        #middle #left-column #content-area .game-content table.two-column-stats th {
+                            width: 20%;
+                            text-align: left;
+                            margin: 0;
+                            padding: 0;
+                        }
         
         .advice-message { display: none !important; }
         .warning { display: none !important; }
