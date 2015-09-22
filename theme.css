@@ -377,6 +377,35 @@ body {
                         padding-left: 4em;                
                     }
 
+                      #middle #left-column #content-area .game-content table thead th {
+                            width: 3em;
+                       }
+
+                       #middle #left-column #content-area .game-content table thead td:first-child {
+                            width: 15%;
+                       }
+
+                       #middle #left-column #content-area .game-content table thead tr th {
+                            font-weight: 700;
+                        }
+
+                        #middle #left-column #content-area .game-content table th {
+                            text-align: left;
+                            margin: 0;
+                            padding: 0;
+                            border-bottom: 1px dotted #000;
+                            padding-left: 0.5em;
+                        }
+
+                        #middle #left-column #content-area .game-content table td {
+                            border-bottom: 1px dotted #000;
+                            padding-left: 0.5em;
+                        }
+
+                       #middle #left-column #content-area .game-content table .even {
+                            background-color: #eeeeee;
+                        }
+
                         #middle #left-column #content-area .game-content table.two-column-stats th {
                             width: 20%;
                             text-align: left;
