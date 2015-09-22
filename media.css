@@ -226,6 +226,13 @@
                 text-decoration: none;
                 display: block;
             }
+            #middle #left-column #content-area .game-content table.three-column-stats th {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table.three-column-stats td {
+                font-size: 14px;
+            }
 }
 
 
