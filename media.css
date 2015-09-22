@@ -69,7 +69,12 @@
   #header {
     width: 970px;
   }
-      #header-logo {
+    #header a {
+        display: inline-block;
+        width: 20%;
+        margin-left: 30%;                              
+    }
+    #header-logo {
         width: 100%;
     }
         #header-navigation {
@@ -96,7 +101,6 @@
         #header-navigation {
             display: inline-block;
         }
-
     #middle { 
         margin: 0 auto;
         margin-left: auto;
@@ -104,7 +108,6 @@
         width: 1170px;
         margin-top: 0.5em;
     }
-
         #middle #left-column #content-area .lobby-panel h1 {
             font-size: 3vw;
         }
