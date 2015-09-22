@@ -94,7 +94,7 @@
         margin-top: 0.5em;
     }
         #middle #left-column #content-area .lobby-panel table {
-            width: 60% !important;
+            width: 59% !important;
         }
             #middle #left-column #content-area .lobby-panel table th {
                 margin: 0;
@@ -102,7 +102,7 @@
                 text-align: left;
                 width: 50%;
                 line-height: 1.6em;
-                padding-left: 10% !important;
+                padding-left: 5% !important;
             }
 }
 
