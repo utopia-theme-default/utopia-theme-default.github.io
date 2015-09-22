@@ -446,7 +446,7 @@ body {
                        }
 
                        #middle #left-column #content-area .game-content table.math-table thead th:first-child {
-                            width: 30%;
+                            width: 20%;
                        }
 
                        #middle #left-column #content-area .game-content table.math-table thead tr th {
@@ -478,7 +478,7 @@ body {
                        }
 
                        #middle #left-column #content-area .game-content table.data thead td:first-child {
-                            width: 30%;
+                            width: 20%;
                        }
 
                        #middle #left-column #content-area .game-content table.data thead tr th {
