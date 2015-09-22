@@ -14,7 +14,7 @@
         }
 
         #header-logo {
-            width: 100%;
+            width: 90%;
             min-height: 3em !important;
             margin-left: 2em;
         }
@@ -49,7 +49,7 @@
         }
 
             #middle #left-column #content-area .lobby-panel table {
-                width: 85% !important;
+                width: 100% !important;
             }
                 #middle #left-column #content-area .lobby-panel table tr {
                     font-size: 12px;
