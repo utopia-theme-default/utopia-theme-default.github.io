@@ -546,7 +546,7 @@ body {
 
 
                       #middle #left-column #content-area .game-content table.tablesorter thead th {
-                            width: 12em;
+                            width: 11em;
                       }
 
                        #middle #left-column #content-area .game-content table.tablesorter thead th:first-child {
@@ -554,7 +554,7 @@ body {
                        }
 
                        #middle #left-column #content-area .game-content table.tablesorter thead th:first-child + th {
-                            width: 16em;
+                            width: 18em;
                        }
 
 
