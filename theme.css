@@ -612,7 +612,7 @@ body {
                 text-align: left !important;
             }
 
-        #bookmark-container { 
+        #middle #left-column #content-area .game-content div #bookmark-container { 
             display: none !important;
         }
         
