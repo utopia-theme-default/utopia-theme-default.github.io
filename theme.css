@@ -292,13 +292,13 @@ body {
                         font-size: 30px;
                     }
 
+                        #middle #left-column #content-area .game-content h2 br {
+                            display: none !important;
+                        }
+
                     #middle #left-column #content-area .game-content #throne-monarch-message h2 {
                         display: none !important;
                     }
-
-                        #middle #left-column #content-area .game-content #throne-monarch-message h2 br {
-                            display: none !important;
-                        }
 
                     #middle #left-column #content-area .game-content #throne-monarch-message p {
                         font-size: 14px;
