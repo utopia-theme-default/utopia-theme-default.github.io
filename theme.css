@@ -302,17 +302,21 @@ body {
                     text-align: left;
                 }
 
-                    #middle #left-column #content-area .game-content p {
-                        font-size: 0px;
-                        margin: 0;
-                        padding: 0;
-                    }
-
                     #middle #left-column #content-area .game-content #throne-monarch-message p {
                         font-size: 14px;
                         margin: 0;
                         padding: 0;
                         text-align: left;
+                    }
+
+                        #middle #left-column #content-area .game-content #throne-monarch-message p br {
+                            display: inline;
+                        }
+
+                    #middle #left-column #content-area .game-content p {
+                        font-size: 0px;
+                        margin: 0;
+                        padding: 0;
                     }
 
                         #middle #left-column #content-area .game-content p a {
