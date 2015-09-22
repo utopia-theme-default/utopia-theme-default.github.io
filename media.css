@@ -96,7 +96,14 @@
         #middle #left-column #content-area .lobby-panel table {
             width: 60% !important;
         }
-
+            #middle #left-column #content-area .lobby-panel table th {
+                margin: 0;
+                padding: 0;
+                text-align: left;
+                width: 50%;
+                line-height: 1.6em;
+                padding-left: 10% !important;
+            }
 }
 
 /* Full Width */
