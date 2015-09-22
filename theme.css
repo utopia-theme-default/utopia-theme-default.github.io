@@ -287,18 +287,6 @@ body {
                     margin-top: 1em;
                 }
 
-                    #middle #left-column #content-area .game-content #throne-monarch-message {
-                        background-color: #fcf8e3;
-                        border: 1px solid transparent;
-                        width: 100%;
-                        margin-bottom: 20px;
-                        border-radius: 4px;
-                        padding: 0.5em 2em;
-                        display: inline-block;
-                        color: rgb(0, 0, 0);
-                        border-color: #faebcc;
-                    }
-
                     #middle #left-column #content-area .game-content h2 {
                         margin-top: 1em;
                         margin-bottom: 1em;
@@ -306,20 +294,34 @@ body {
                         font-weight: normal;
                     }
 
-                    #middle #left-column #content-area .game-content #throne-monarch-message h2 {
-                        display: none !important;
+                    #middle #left-column #content-area .game-content #throne-monarch-message {
+                        background-color: #fcf8e3;
+                        border: 1px solid transparent;
+                        width: 100%;
+                        margin-bottom: 20px;
+                        border-radius: 4px;
+                        padding: 0.5em 0.5em 0.5em 0.5em;
+                        display: inline-block;
+                        color: rgb(0, 0, 0);
+                        border-color: #faebcc;
                     }
 
-                    #middle #left-column #content-area .game-content #throne-monarch-message p {
-                        font-size: 14px;
-                        margin: 0;
-                        padding: 0;
-                        text-align: left;
-                    }
-
-                        #middle #left-column #content-area .game-content #throne-monarch-message p br {
-                            display: none;
+                        #middle #left-column #content-area .game-content #throne-monarch-message h2 {
+                            display: none !important;
                         }
+
+                        #middle #left-column #content-area .game-content #throne-monarch-message p {
+                            font-size: 14px;
+                            margin: 0;
+                            padding: 0;
+                            text-align: left;
+                            padding-right: 1.5em;
+                            padding-left: 1.5em;
+                        }
+
+                            #middle #left-column #content-area .game-content #throne-monarch-message p br {
+                                display: none;
+                            }
 
                     #middle #left-column #content-area .game-content p {
                         font-size: 0px;
