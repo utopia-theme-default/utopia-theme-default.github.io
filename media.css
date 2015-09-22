@@ -185,6 +185,15 @@
             width: 55% !important;
             font-size: 18px !important;
         }
+            #middle #left-column #content-area #resource-bar thead tr th {
+                width: 6em;
+                text-align: left;
+            }
+
+            #middle #left-column #content-area #resource-bar thead tr th:last-child {
+                width: 6.5em;
+                text-align: left;
+            }
 }
 
 
