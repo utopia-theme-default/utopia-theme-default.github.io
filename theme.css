@@ -406,6 +406,14 @@ body {
                             background-color: #eeeeee;
                         }
 
+                       #middle #left-column #content-area .game-content table thead th {
+                            width: 15%;
+                       }
+
+                       #middle #left-column #content-area .game-content table thead th:first-child {
+                            width: 30%;
+                       }
+
                         #middle #left-column #content-area .game-content table.two-column-stats th {
                             width: 20%;
                             text-align: left;
