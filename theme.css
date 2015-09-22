@@ -318,6 +318,7 @@ body {
                         font-size: 0px;
                         margin: 0;
                         padding: 0;
+                        text-align: left;
                     }
 
                         #middle #left-column #content-area .game-content p a {
@@ -325,7 +326,8 @@ body {
                             text-decoration: none;
                             font-size: 14px;
                             text-transform: capitalize;
-                            margin-right: 1em;
+                            margin-right: 3em;
+                            text-align: left;
                         }
 
                         #middle #left-column #content-area .game-content p a:hover {
