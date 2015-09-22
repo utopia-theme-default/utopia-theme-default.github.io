@@ -553,6 +553,10 @@ body {
                             width: 16em;
                        }
 
+                      #middle #left-column #content-area .game-content table.tablesorter tbody td.slot-number {
+                            width: 1em;
+                       }
+
                        #middle #left-column #content-area .game-content table.tablesorter tbody td:first-child {
                             width: 5%;
                        }
