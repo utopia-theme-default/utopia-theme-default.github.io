@@ -1,9 +1,8 @@
-/* Import Bootstrap and default theme */
-@import url("bootstrap.min.css");
-@import url("bootstrap-theme.min.css");
-
 /* Import Responsive Media Queries */
 @import url("media.css");
+
+/* Import Web Fonts */
+@import url("https://fonts.googleapis.com/css?family=Quicksand:400,300,700");
 
 /* Create a normal font family with readily colors on the body */
 body {
