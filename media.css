@@ -51,19 +51,22 @@
     padding-bottom: 0em !important;
   }
     #header a {
-        display: block;
-        width: 100%;
+        display: inline-block;
+        width: 30%;
     }
     #header-logo {
         width: 100%;
-        margin-left: 0em;
+        margin-left: 10em !important;
     }
         #header-navigation {
             display: inline-block;
-            width: 100% !important;            
+            width: 65% !important;            
             padding-top: 0.5em;
             margin-left: 0em;
         }
+            #header-navigation div:first-child {
+                margin-left: 8em !important;
+            }
     #middle { 
         margin: 0 auto;
         margin-left: auto;
