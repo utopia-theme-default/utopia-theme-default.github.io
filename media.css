@@ -123,5 +123,9 @@
         #middle #left-column #content-area .lobby-panel h1 {
             font-size: 3vw;
         }
+
+        #middle #left-column #content-area .lobby-panel table {
+            width: 70% !important;
+        }
 }
 
