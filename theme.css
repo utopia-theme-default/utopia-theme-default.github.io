@@ -404,6 +404,14 @@ body {
                             border-bottom: 1px dotted #000;
                         }
 
+                       #middle #left-column #content-area .game-content table.math-table thead th {
+                            width: 15%;
+                       }
+
+                       #middle #left-column #content-area .game-content table.math-table thead th:first-child {
+                            width: 30%;
+                       }
+
                        #middle #left-column #content-area .game-content table.math-table thead tr th {
                             font-weight: 700;
                         }
@@ -413,6 +421,7 @@ body {
                             margin: 0;
                             padding: 0;
                             border-bottom: 1px dotted #000;
+                            font-weight: 700;
                         }
 
                         #middle #left-column #content-area .game-content table.math-table td {
