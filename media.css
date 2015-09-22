@@ -4,15 +4,26 @@
     body {
         font-size: 20px;
     }
+      #header {
+        width: 100% !important;
+        padding-bottom: 0em !important;
+      }
+        #header a {
+            display: inline-block;
+            width: 100%;
+        }
 
         #header-logo {
             width: 50%;
-            margin-left: 2em;
             min-height: 6em !important;
+            margin-left: 0em;
         }
 
             #header-navigation {
-                display: none;
+                display: inline-block;
+                width: 100% !important;            
+                padding-top: 0.5em;
+                margin-left: 0em;
             }
 
             #account-header {
