@@ -188,7 +188,7 @@
             #middle #left-column #content-area #resource-bar thead tr th {
                 width: 6.5em;
                 text-align: left;
-                font-size: 12px;
+                font-size: 14px;
             }
 
             #middle #left-column #content-area #resource-bar thead tr th:last-child {
@@ -199,7 +199,7 @@
             #middle #left-column #content-area #resource-bar tbody tr th {
                 width: 6.5em;
                 text-align: left;
-                font-size: 12px;
+                font-size: 14px;
             }
 
             #middle #left-column #content-area #resource-bar tbody tr th:last-child {
