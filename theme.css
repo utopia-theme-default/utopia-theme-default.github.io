@@ -566,13 +566,13 @@ body {
                             padding: 0;
                             border-bottom: 1px dotted #000;
                             padding-left: 0.5em;
-                            font-size: 14px;
+                            font-size: 12px;
                         }
 
                         #middle #left-column #content-area .game-content table.tablesorter td {
                             border-bottom: 1px dotted #000;
                             padding-left: 0.5em;
-                            font-size: 14px;
+                            font-size: 12px;
                         }
 
                        #middle #left-column #content-area .game-content table.tablesorter tr:nth-child(even) { background: #eeeeee; } {
