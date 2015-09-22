@@ -56,7 +56,7 @@
     }
     #header-logo {
         width: 100%;
-        margin-left: 10em !important;
+        margin-left: 25% !important;
     }
         #header-navigation {
             display: inline-block;
@@ -65,7 +65,7 @@
             margin-left: 0em;
         }
             #header-navigation div:first-child {
-                margin-left: 8em !important;
+                margin-left: 11% !important;
             }
     #middle { 
         margin: 0 auto;
