@@ -49,7 +49,9 @@
     }
         #header-navigation {
             display: inline-block;
-            width: 65% !important;
+            width: 100% !important;
+            margin-left: 5em;
+            padding-top: 1em;
         }
     #middle { 
         margin: 0 auto;
