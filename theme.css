@@ -423,7 +423,7 @@ body {
                             border-bottom: 1px dotted #000;
                         }
 
-                        #middle #left-column #content-area .game-content table.math-table th.sub-total {
+                        #middle #left-column #content-area .game-content table.math-table .sub-total th:first-child {
                             font-weight: 700;
                         }
 
