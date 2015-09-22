@@ -37,6 +37,7 @@
 @media (min-width: 768px) {
   #header {
     width: 750px;
+    padding-bottom: 0em !important;
   }
     #header a {
         display: block;
@@ -50,8 +51,8 @@
         #header-navigation {
             display: inline-block;
             width: 100% !important;
-            margin-left: 5em;
-            padding-top: 1em;
+            margin-left: 7em;
+            padding-top: 0.5em;
         }
     #middle { 
         margin: 0 auto;
