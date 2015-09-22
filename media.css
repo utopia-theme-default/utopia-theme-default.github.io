@@ -42,7 +42,6 @@
     #header a {
         display: block;
         width: 100%;
-        margin-left: 5em;
     }
     #header-logo {
         width: 100%;
@@ -50,8 +49,7 @@
     }
         #header-navigation {
             display: inline-block;
-            width: 100% !important;
-            margin-left: 7em;
+            width: 100% !important;            
             padding-top: 0.5em;
         }
     #middle { 
