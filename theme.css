@@ -33,7 +33,8 @@ body {
             padding-top: 1em;
             padding-bottom: 1em;
             box-shadow: 0 4px 2px -2px rgba(208,72,46, 1);    
-            height: auto;                                     
+            height: auto;   
+            background-color: #000;                                  
         }
             
             #header-logo {
@@ -51,7 +52,7 @@ body {
             }
 
                 #header-navigation a {
-                    color: #FAB048;
+                    color: #9a2617;
                     text-decoration: none;
                     margin-left: 0.5em;
                     margin-right: 0.5em;
