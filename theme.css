@@ -553,7 +553,7 @@ body {
                             width: 5%;
                        }
 
-                       #middle #left-column #content-area .game-content table.tablesorter thead th:first-child:after {
+                       #middle #left-column #content-area .game-content table.tablesorter thead th:first-child + th {
                             width: 16em;
                        }
 
