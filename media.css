@@ -70,7 +70,7 @@
     width: 970px;
   }
       #header-logo {
-        width: 30%;
+        width: 100%;
     }
         #header-navigation {
             display: inline-block;
