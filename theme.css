@@ -260,6 +260,8 @@ body {
                             color: #7b7354;
                             text-decoration: none;
                             font-size: 14px;
+                            text-transform: capitalize;
+                            margin-right: 1em;
                         }
 
                         #middle #left-column #content-area .game-content p a:hover {
