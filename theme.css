@@ -92,7 +92,7 @@ body {
                     }
 
                         #middle #left-column #content-area .lobby-panel table {
-                            font-size: 1.5vw;
+                            font-size: 1vw;
                             color: #000;
                             padding: 0;
                             width: 70%;
@@ -110,20 +110,17 @@ body {
                             #middle #left-column #content-area .lobby-panel table th {
                                 margin: 0;
                                 padding: 0;
-                                font-size: 1.5vw;
                                 text-align: left;
                             }
 
                             #middle #left-column #content-area .lobby-panel table tr {
                                 margin: 0;
                                 padding: 0;
-                                font-size: 1.5vw;
                             }
 
                             #middle #left-column #content-area .lobby-panel table td {
                                 margin: 0;
                                 padding: 0;
-                                font-size: 1.5vw;
                                 text-align: left;
                             }
 
