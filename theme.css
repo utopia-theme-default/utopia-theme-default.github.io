@@ -591,23 +591,23 @@ body {
         #id_add_bookmark_form { 
             display: inline-block;
         }
-        #change-kingdom-nav {
+        .change-kingdom-nav {
             width: 100%;
             clear: both;
             margin-bottom: 1em;
         }
 
-            #change-kingdom-nav .button-link a {
+           .change-kingdom-nav a {
                 width: 5%;
                 text-align: right;
             }
 
-            #change-kingdom-nav a:first-child {
+            .change-kingdom-nav a:first-child {
                 width: 7%;
                 text-align: left;
             }
 
-            #change-kingdom-nav a:first-child + a {
+            .change-kingdom-nav a:first-child + a {
                 width: 6%;
                 text-align: left;
             }
