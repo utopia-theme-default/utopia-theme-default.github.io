@@ -217,6 +217,7 @@ body {
                     padding-left: 1em;
                     padding-top: 0.5em;
                     z-index: 9999999;
+                    background-image: url("http://www.datadelen.com/design/standard_design/images/background_footer.jpg");
                 }
 
                     #middle #left-column #content-area #game-navigation .current-date {
