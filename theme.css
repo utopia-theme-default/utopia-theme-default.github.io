@@ -453,10 +453,16 @@ body {
                             margin: 0;
                             padding: 0;
                             border-bottom: 1px dotted #000;
+                            padding-left: 0.5em;
                         }
 
                         #middle #left-column #content-area .game-content table.data td {
                             border-bottom: 1px dotted #000;
+                            padding-left: 0.5em;
+                        }
+
+                       #middle #left-column #content-area .game-content table.data .even {
+                            background-color: #eeeeee;
                         }
 
 
