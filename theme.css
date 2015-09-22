@@ -465,6 +465,35 @@ body {
                             background-color: #eeeeee;
                         }
 
+                       #middle #left-column #content-area .game-content table.schedule thead th {
+                            width: 15%;
+                       }
+
+                       #middle #left-column #content-area .game-content table.schedule thead td:first-child {
+                            width: 30%;
+                       }
+
+                       #middle #left-column #content-area .game-content table.schedule thead tr th {
+                            font-weight: 700;
+                        }
+
+                        #middle #left-column #content-area .game-content table.schedule th {
+                            text-align: left;
+                            margin: 0;
+                            padding: 0;
+                            border-bottom: 1px dotted #000;
+                            padding-left: 0.5em;
+                        }
+
+                        #middle #left-column #content-area .game-content table.schedule td {
+                            border-bottom: 1px dotted #000;
+                            padding-left: 0.5em;
+                        }
+
+                       #middle #left-column #content-area .game-content table.schedule .even {
+                            background-color: #eeeeee;
+                        }
+
 
         
         
