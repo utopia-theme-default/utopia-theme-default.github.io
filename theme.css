@@ -481,6 +481,10 @@ body {
                             width: 20%;
                        }
 
+                       #middle #left-column #content-area .game-content table.data thead th:first-child {
+                            width: 20%;
+                       }
+
                        #middle #left-column #content-area .game-content table.data thead tr th {
                             font-weight: 700;
                         }
