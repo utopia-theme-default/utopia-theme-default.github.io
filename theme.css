@@ -297,6 +297,10 @@ body {
                             display: none !important;
                         }
 
+                        #middle #left-column #content-area .game-content h2 br:after {
+                            display: none !important;
+                        }
+
                     #middle #left-column #content-area .game-content #throne-monarch-message h2 {
                         display: none !important;
                     }
