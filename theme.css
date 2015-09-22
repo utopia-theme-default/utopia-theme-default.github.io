@@ -11,12 +11,12 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #000;
-    background-color: #f8f8f8;
+    background-color: #F2F2F2;
 }
 
     /* Make the inner container full width */
     #inner-container {
-        background-color: #f8f8f8;
+        background-color: #F2F2F2;
         top: 0;
         right: 0;
         left: 0;
