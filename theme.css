@@ -466,11 +466,11 @@ body {
                         }
 
                        #middle #left-column #content-area .game-content table.schedule thead th {
-                            width: 4%;
+                            width: 3em;
                        }
 
                        #middle #left-column #content-area .game-content table.schedule thead td:first-child {
-                            width: 4%;
+                            width: 15%;
                        }
 
                        #middle #left-column #content-area .game-content table.schedule thead tr th {
