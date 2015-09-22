@@ -552,6 +552,10 @@ body {
                             width: 15%;
                        }
 
+                       #middle #left-column #content-area .game-content table.tablesorter thead th:first-child {
+                            width: 15%;
+                       }
+
                        #middle #left-column #content-area .game-content table.tablesorter thead tr th {
                             font-weight: 700;
                         }
