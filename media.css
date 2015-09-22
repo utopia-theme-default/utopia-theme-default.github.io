@@ -85,6 +85,14 @@
             width: 70% !important;
             font-size: 1.5vw !important;
         }
+
+            #middle #left-column #content-area .lobby-panel table tr {
+                font-size: 16px;
+            }
+
+            #middle #left-column #content-area .lobby-panel table td {
+                font-size: 16px;
+            }
 }
 
 /* Laptop */
