@@ -369,7 +369,8 @@ body {
         
         #adunit { display: none !important; }
         #footer { display: none !important; }
-
+        #recruitment-chat { display: none !important; }
+        #upoopu_extension { z-index: 99999; }
 
 h1 {
 	font-family: 'Quicksand', sans-serif;
