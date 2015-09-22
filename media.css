@@ -100,7 +100,7 @@
 /* Full Width */
 @media (min-width: 1200px) {
   #header {
-    width: 1170px;
+    width: 1170px !important;
   }
     #header-logo {
         width: 100%;
