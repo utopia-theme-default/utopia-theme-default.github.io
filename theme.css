@@ -7,9 +7,6 @@
 
 /* Create a normal font family with readily colors on the body */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.42857143;
     color: #000;
     background-color: #F2F2F2;
 }
@@ -365,3 +362,45 @@ body {
         
         #adunit { display: none !important; }
         #footer { display: none !important; }
+
+
+h1 {
+	font-family: Times;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 33px;
+}
+h3 {
+	font-family: Times;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 22px;
+}
+p {
+	font-family: Times;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 21px;
+}
+blockquote {
+	font-family: Times;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 31.5px;
+}
+pre {
+	font-family: Times;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 19.5px;
+}
