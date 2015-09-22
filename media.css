@@ -233,6 +233,13 @@
             #middle #left-column #content-area .game-content table.three-column-stats td {
                 font-size: 14px;
             }
+            #middle #left-column #content-area .game-content table.math-table th {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table.math-table td {
+                font-size: 14px;
+            }
 }
 
 
