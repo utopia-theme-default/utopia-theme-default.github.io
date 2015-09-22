@@ -611,6 +611,10 @@ body {
                 width: 6% !important;
                 text-align: left !important;
             }
+
+        #bookmark-container { 
+            display: none;
+        }
         
         .advice-message { display: none !important; }
         .warning { display: none !important; }
