@@ -240,6 +240,14 @@
             #middle #left-column #content-area .game-content table.math-table td {
                 font-size: 14px;
             }
+            #middle #left-column #content-area .game-content table.data th {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table.data td {
+                font-size: 14px;
+            }
+}
 }
 
 

@@ -436,6 +436,14 @@ body {
                             border-bottom: 1px dotted #000;
                         }
 
+                       #middle #left-column #content-area .game-content table.data thead th {
+                            width: 15%;
+                       }
+
+                       #middle #left-column #content-area .game-content table.data thead th:first-child {
+                            width: 30%;
+                       }
+
                        #middle #left-column #content-area .game-content table.data thead tr th {
                             font-weight: 700;
                         }
@@ -450,6 +458,8 @@ body {
                         #middle #left-column #content-area .game-content table.data td {
                             border-bottom: 1px dotted #000;
                         }
+
+
         
         
         .advice-message { display: none !important; }
