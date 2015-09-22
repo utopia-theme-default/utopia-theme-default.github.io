@@ -52,20 +52,20 @@
   }
     #header a {
         display: inline-block;
-        width: 30%;
+        width: 32%;
     }
     #header-logo {
         width: 100%;
-        margin-left: 25% !important;
+        margin-left: 10% !important;
     }
         #header-navigation {
             display: inline-block;
-            width: 65% !important;            
+            width: 67% !important;            
             padding-top: 0.5em;
             margin-left: 0em;
         }
             #header-navigation div:first-child {
-                margin-left: 10% !important;
+                margin-left: 5% !important;
             }
     #middle { 
         margin: 0 auto;
