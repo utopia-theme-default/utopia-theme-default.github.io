@@ -38,12 +38,20 @@
   #header {
     width: 750px;
   }
+
+    #header a {
+        display: inline-block;
+        width: 20%;
+        margin-left: 24%;                              
+    }
+
     #header-logo {
-        width: 50%;
+        width: 100%;
         margin-left: 2em;
     }
         #header-navigation {
-            display: none;
+            display: inline-block;
+            width: 50%;
         }
 
     #middle { 
