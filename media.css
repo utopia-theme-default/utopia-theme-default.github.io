@@ -194,6 +194,16 @@
                 width: 6.5em;
                 text-align: left;
             }
+
+            #middle #left-column #content-area #resource-bar tbody tr th {
+                width: 6em;
+                text-align: left;
+            }
+
+            #middle #left-column #content-area #resource-bar tbody tr th:last-child {
+                width: 6.5em;
+                text-align: left;
+            }
 }
 
 
