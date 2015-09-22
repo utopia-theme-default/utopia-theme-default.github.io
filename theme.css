@@ -184,20 +184,30 @@ body {
                         display: inline-block;
                     }
 
-                        #middle #left-column #content-area #resource-bar thead th {
-                            width: 15%;
-                            text-align: left;
+                        #middle #left-column #content-area #resource-bar thead tr {
+                            width: 100%;
+                            display: inline-block;
                         }
+
+                            #middle #left-column #content-area #resource-bar thead tr th {
+                                width: 8em;
+                                text-align: left;
+                            }
 
                     #middle #left-column #content-area #resource-bar tbody {
                         width: 100%;
                         display: inline-block;
                     }
 
-                        #middle #left-column #content-area #resource-bar tbody th {
-                            width: 15%;
-                            text-align: left;
+                        #middle #left-column #content-area #resource-bar tbody {
+                            width: 100%;
+                            display: inline-block;
                         }
+
+                            #middle #left-column #content-area #resource-bar tbody tr th {
+                                width: 8em;
+                                text-align: left;
+                            }
 
                 #middle #left-column #content-area #game-navigation {
                     display: block !important;
