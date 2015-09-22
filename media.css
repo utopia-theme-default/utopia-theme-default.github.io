@@ -247,7 +247,14 @@
             #middle #left-column #content-area .game-content table.data td {
                 font-size: 12px;
             }
-}
+            #middle #left-column #content-area .game-content table.schedule th {
+                font-size: 12px;
+            }
+
+            #middle #left-column #content-area .game-content table.schedule td {
+                font-size: 12px;
+            }
+
 }
 
 
