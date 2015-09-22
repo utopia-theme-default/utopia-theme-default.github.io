@@ -33,8 +33,7 @@ body {
             padding-top: 1em;
             padding-bottom: 1em;
             box-shadow: 0 4px 2px -2px rgba(208,72,46, 1);    
-            height: auto;    
-            padding-left: 10em;                       
+            height: auto;                                     
         }
             
             #header-logo {
@@ -94,10 +93,9 @@ body {
 
                         #middle #left-column #content-area .lobby-panel table {
                             font-size: 1.5vw;
-                            color: #D0482E;
-                            margin: 0;
+                            color: #000;
                             padding: 0;
-                            width: 100%;
+                            width: 70%;
                         }
 
                             #middle #left-column #content-area .lobby-panel table a {
@@ -113,6 +111,7 @@ body {
                                 margin: 0;
                                 padding: 0;
                                 font-size: 1.5vw;
+                                text-align: left;
                             }
 
                             #middle #left-column #content-area .lobby-panel table tr {
@@ -125,6 +124,7 @@ body {
                                 margin: 0;
                                 padding: 0;
                                 font-size: 1.5vw;
+                                text-align: left;
                             }
 
                         #middle #left-column #content-area .lobby-panel table .advice-message {
@@ -132,7 +132,6 @@ body {
                         }
 
                         #middle #left-column #content-area .lobby-panel h1 {
-                            font-size: 3.5vw;
                             margin-top: 2em;
                             margin-bottom: 1em;
                         }
