@@ -269,6 +269,15 @@ body {
                         display: block !important;
                         width: 100%;
                     }
+
+                    #middle #left-column #content-area .game-content table {
+                        display: block !important;
+                        width: 100%;
+                        text-align: left;
+                        font-size: 12px;
+                        margin: 0;
+                        padding: 0;
+                    }
         
         .advice-message { display: none !important; }
         .warning { display: none !important; }
