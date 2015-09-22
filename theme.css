@@ -592,24 +592,24 @@ body {
             display: inline-block;
         }
         .change-kingdom-nav {
-            width: 100%;
-            clear: both;
-            margin-bottom: 1em;
+            width: 100% !important;
+            clear: both !important;
+            margin-bottom: 1em !important;
         }
 
            .change-kingdom-nav a {
-                width: 5%;
-                text-align: right;
+                width: 5% !important;
+                text-align: right !important;
             }
 
             .change-kingdom-nav a:first-child {
-                width: 7%;
-                text-align: left;
+                width: 7% !important;
+                text-align: left !important;
             }
 
             .change-kingdom-nav a:first-child + a {
-                width: 6%;
-                text-align: left;
+                width: 6% !important;
+                text-align: left !important;
             }
         
         .advice-message { display: none !important; }
