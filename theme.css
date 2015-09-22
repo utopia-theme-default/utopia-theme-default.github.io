@@ -389,7 +389,7 @@ body {
                             border-bottom: 1px dotted #000;
                         }
 
-                        #middle #left-column #content-area .game-content table.three-column-stats tr:first-child {
+                        #middle #left-column #content-area .game-content table.three-column-stats thead tr th {
                             font-weight: 700;
                         }
 
