@@ -109,13 +109,9 @@ body {
                                 margin: 0;
                                 padding: 0;
                                 text-align: left;
-                                width: 75%;
+                                width: 25%;
                                 line-height: 1.6em;
                                 padding-left: 15%;
-                            }
-
-                            #middle #left-column #content-area .lobby-panel table th:first-child {
-                                width: 25%;
                             }
 
                             #middle #left-column #content-area .lobby-panel table tr {
