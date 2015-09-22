@@ -254,11 +254,13 @@ body {
                         font-size: 12px;
                         margin: 0;
                         padding: 0;
+                        display: none !important;
                     }
 
                         #middle #left-column #content-area .game-content p a {
                             color: #7b7354;
                             text-decoration: none;
+                            display: block !important;
                         }
 
                         #middle #left-column #content-area .game-content p a:hover {
