@@ -584,7 +584,7 @@ body {
 
         #change-kingdom-heading {
             display: inline-block;
-            width: 100;
+            width: 100%;
             font-size: 14px;
             padding: 0.5em 0.5em 0.5em 0.5em;
         }
