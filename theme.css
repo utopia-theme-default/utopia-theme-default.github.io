@@ -544,15 +544,20 @@ body {
                             background-color: #eeeeee;
                         }
 
-                      #middle #left-column #content-area .game-content table.tablesorter thead th {
-                            width: 14em;
+
+                      #middle #left-column #content-area .game-content table.tablesorter thead td {
+                            width: 12em;
+                      }
+
+                      #middle #left-column #content-area .game-content table.tablesorter tbody td.province-name {
+                            width: 16em;
                        }
 
-                       #middle #left-column #content-area .game-content table.tablesorter thead td:first-child {
+                       #middle #left-column #content-area .game-content table.tablesorter tbody td:first-child {
                             width: 5%;
                        }
 
-                       #middle #left-column #content-area .game-content table.tablesorter thead th:first-child {
+                       #middle #left-column #content-area .game-content table.tablesorter tbody td:first-child {
                             width: 5%;
                        }
 
