@@ -310,7 +310,7 @@ body {
                     }
 
                         #middle #left-column #content-area .game-content #throne-monarch-message p br {
-                            display: inline;
+                            display: inherit;
                         }
 
                     #middle #left-column #content-area .game-content p {
