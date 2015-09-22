@@ -255,6 +255,14 @@
                 font-size: 12px;
             }
 
+            #middle #left-column #content-area .game-content table th {
+                font-size: 12px;
+            }
+
+            #middle #left-column #content-area .game-content table td {
+                font-size: 12px;
+            }
+
 }
 
 
