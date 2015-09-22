@@ -83,7 +83,9 @@
             display: inline-block;
             width: 48% !important;
         }
-
+            #header-navigation div:first-child {
+                margin-left: 0em !important;
+            }
     #middle { 
         margin: 0 auto;
         margin-left: auto;
@@ -111,7 +113,7 @@
             margin-left: 0em !important;
         }
             #header-navigation div:first-child {
-                margin-left: 12em;
+                margin-left: 12em !important;
             }
     #middle { 
         margin: 0 auto;
