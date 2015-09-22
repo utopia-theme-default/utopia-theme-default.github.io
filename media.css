@@ -72,13 +72,14 @@
     #header a {
         display: inline-block;
         width: 30%;
-        margin-left: 24%;                              
+        margin-left: 18%;                              
     }
     #header-logo {
         width: 100%;
     }
         #header-navigation {
             display: inline-block;
+            width: 48% !important;
         }
 
     #middle { 
