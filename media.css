@@ -1,6 +1,6 @@
 
 /* Phone */
-@media (max-width: 767px) {
+@media (min-width: 320px) {
     body {
         font-size: 20px;
     }
@@ -9,14 +9,14 @@
         padding-bottom: 0em !important;
       }
         #header a {
-            display: inline-block;
+            display: block;
             width: 100%;
         }
 
         #header-logo {
-            width: 50%;
-            min-height: 6em !important;
-            margin-left: 0em;
+            width: 100%;
+            min-height: 3em !important;
+            margin-left: 2em;
         }
 
             #header-navigation {
