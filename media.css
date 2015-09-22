@@ -24,7 +24,12 @@
                 width: 100% !important;            
                 padding-top: 0.5em;
                 margin-left: 0em;
+                font-size: 14px;
             }
+
+                #header-navigation div:first-child {
+                    margin-left: 1em !important;
+                }
 
             #account-header {
                 display: none !important;
