@@ -14,7 +14,7 @@
         }
 
         #header-logo {
-            width: 50%;
+            width: 80%;
             min-height: 3em !important;
             margin-left: 2em;
         }
@@ -28,7 +28,7 @@
             }
 
                 #header-navigation div:first-child {
-                    margin-left: 1em !important;
+                    margin-left: 8% !important;
                 }
 
             #account-header {
@@ -53,6 +53,10 @@
 
             #middle #left-column #content-area .lobby-panel table td {
                 font-size: 16px;
+            }
+
+            #middle #left-column #content-area .lobby-panel h1 {
+                font-size: 24px;
             }
 }
 
