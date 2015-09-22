@@ -388,6 +388,18 @@ body {
                         #middle #left-column #content-area .game-content table.two-column-stats td {
                             border-bottom: 1px dotted #000;
                         }
+
+                        #middle #left-column #content-area .game-content table.three-column-stats th {
+                            width: 20%;
+                            text-align: left;
+                            margin: 0;
+                            padding: 0;
+                            border-bottom: 1px dotted #000;
+                        }
+
+                        #middle #left-column #content-area .game-content table.three-column-stats td {
+                            border-bottom: 1px dotted #000;
+                        }
         
         .advice-message { display: none !important; }
         .warning { display: none !important; }
