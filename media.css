@@ -42,6 +42,13 @@
             margin-right: auto;
             margin-top: 0.5em;
         }
+            #middle #left-column #content-area .lobby-panel table tr {
+                font-size: 16px;
+            }
+
+            #middle #left-column #content-area .lobby-panel table td {
+                font-size: 16px;
+            }
 }
 
 /* Tablet */
