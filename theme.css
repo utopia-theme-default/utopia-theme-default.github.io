@@ -286,6 +286,10 @@ body {
                     margin-top: 1em;
                 }
 
+                    #middle #left-column #content-area .game-content #throne-monarch-message h2 {
+                        display: none !important;
+                    }
+
                     #middle #left-column #content-area .game-content #throne-monarch-message p {
                         font-size: 14px;
                         margin: 0;
