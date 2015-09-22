@@ -362,12 +362,14 @@ body {
                         text-align: left;
                         font-size: 16px;
                         margin: 0;
-                        padding: 0;
+                        padding: 0.5em 0.5em 0.5em 0.5em;
+                        background-color: #fff;
+                        border: 1px solid transparent;
+                        margin-bottom: 20px;
+                        border-radius: 4px;
+                        color: rgb(0, 0, 0);
+                        border-color: #faebcc;                        
                     }
-
-                        #middle #left-column #content-area .game-content table.two-column-stats tr:last-child {
-                            display: none !important;
-                        }
 
                         #middle #left-column #content-area .game-content table.two-column-stats th {
                             width: 20%;
