@@ -110,11 +110,13 @@ body {
                                 padding: 0;
                                 text-align: left;
                                 width: 50%;
+                                line-height: 1.6em;
                             }
 
                             #middle #left-column #content-area .lobby-panel table tr {
                                 margin: 0;
                                 padding: 0;
+                                line-height: 1.6em;
                             }
 
                             #middle #left-column #content-area .lobby-panel table td {
@@ -122,6 +124,7 @@ body {
                                 padding: 0;
                                 text-align: left;
                                 width: 50%;
+                                line-height: 1.6em;
                             }
 
                         #middle #left-column #content-area .lobby-panel table .advice-message {
