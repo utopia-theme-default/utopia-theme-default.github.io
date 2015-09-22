@@ -300,6 +300,7 @@ body {
                     display: block !important;
                     width: 100%;
                     text-align: left;
+                    margin-top: 1em;
                 }
 
                     #middle #left-column #content-area .game-content #throne-monarch-message p {
