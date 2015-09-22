@@ -582,11 +582,11 @@ body {
                             background-color: #eeeeee;
                         }
 
-        #change-kingdom-heading {
-            display: inline-block;
-            width: 100%;
-            font-size: 14px;
-            padding: 0.5em 0.5em 0.5em 0.5em;
+        .change-kingdom-heading {
+            display: inline-block !important;
+            width: 100% !important;
+            font-size: 14px !important;
+            padding: 0.5em 0.5em 0.5em 0.5em !important;
         }
         #id_add_bookmark_form { 
             display: inline-block;
