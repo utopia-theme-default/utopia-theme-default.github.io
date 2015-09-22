@@ -1,4 +1,6 @@
 /* Import Responsive Media Queries */
+@import url("bootstrap.min.css");
+@import url("bootstrap-theme.min.css");
 @import url("media.css");
 
 /* Create a normal font family with readily colors on the body */
