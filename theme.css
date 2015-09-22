@@ -368,7 +368,8 @@ body {
                         margin-bottom: 20px;
                         border-radius: 4px;
                         color: rgb(0, 0, 0);
-                        border-color: #faebcc;                        
+                        border-color: #faebcc;        
+                        padding-left: 4em;                
                     }
 
                         #middle #left-column #content-area .game-content table.two-column-stats th {
