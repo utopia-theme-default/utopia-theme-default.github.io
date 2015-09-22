@@ -135,6 +135,7 @@
         #header-navigation {
             display: inline-block;
             margin-left: 0em !important;
+            width: 50% !important;
         }
             #header-navigation div:first-child {
                 margin-left: 15% !important;
