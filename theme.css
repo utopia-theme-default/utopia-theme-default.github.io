@@ -247,7 +247,14 @@ body {
                 #middle #left-column #content-area .game-content {
                     display: block !important;
                     width: 100%;
+                    text-align: left;
                 }
+
+                    #middle #left-column #content-area .game-content p {
+                        font-size: 14px;
+                        margin: 0;
+                        padding: 0;
+                    }
 
                     #middle #left-column #content-area .game-content div {
                         display: block !important;
