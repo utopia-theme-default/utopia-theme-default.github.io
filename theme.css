@@ -389,6 +389,10 @@ body {
                             border-bottom: 1px dotted #000;
                         }
 
+                        #middle #left-column #content-area .game-content table.three-column-stats tr:first-child {
+                            font-weight: 700;
+                        }
+
                         #middle #left-column #content-area .game-content table.three-column-stats th {
                             text-align: left;
                             margin: 0;
