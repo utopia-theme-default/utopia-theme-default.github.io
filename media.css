@@ -206,6 +206,26 @@
                 width: 8em;
                 text-align: left;
             }
+
+            #middle #left-column #content-area #game-navigation .navigation {
+                margin-top: 15px;
+            }
+
+            #middle #left-column #content-area #game-navigation .navigation div {
+                margin: 0;
+                padding: 0;
+                float: left;
+                position: relative;
+            }
+
+            #middle #left-column #content-area #game-navigation .navigation div a {
+                padding: 0 15px;
+                line-height: 32px;
+                font-size: 12px;
+                font-weight: 700;
+                text-decoration: none;
+                display: block;
+            }
 }
 
 
