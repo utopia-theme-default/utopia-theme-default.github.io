@@ -183,6 +183,37 @@ body {
                     z-index: 9999999;
                 }
 
+                    #middle #left-column #content-area #game-navigation #resource-bar {
+                        background-color: #D9EDF7;
+                        border: 1px solid transparent;
+                        width: 100%;
+                        margin-bottom: 20px;
+                        border-radius: 4px;
+                        padding: 0.5em 2em;
+                        display: inline-block;
+                        color: rgb(0, 0, 0);
+                    }
+
+                        #middle #left-column #content-area #game-navigation #resource-bar thead {
+                            width: 100%;
+                            display: inline-block;
+                        }
+
+                            #middle #left-column #content-area #game-navigation #resource-bar thead th {
+                                width: 15%;
+                                text-align: left;
+                            }
+
+                        #middle #left-column #content-area #game-navigation #resource-bar tbody {
+                            width: 100%;
+                            display: inline-block;
+                        }
+
+                            #middle #left-column #content-area #game-navigation #resource-bar tbody th {
+                                width: 15%;
+                                text-align: left;
+                            }
+
                     #middle #left-column #content-area #game-navigation .current-date {
                         color: #000;
                         font-weight: 700;
