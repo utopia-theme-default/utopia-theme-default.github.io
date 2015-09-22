@@ -390,15 +390,16 @@ body {
                         }
 
                         #middle #left-column #content-area .game-content table.three-column-stats th {
-                            width: 20%;
                             text-align: left;
                             margin: 0;
                             padding: 0;
                             border-bottom: 1px dotted #000;
+                            font-size: 14px;
                         }
 
                         #middle #left-column #content-area .game-content table.three-column-stats td {
                             border-bottom: 1px dotted #000;
+                            font-size: 14px;
                         }
         
         .advice-message { display: none !important; }
