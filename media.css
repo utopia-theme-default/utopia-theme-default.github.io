@@ -1,6 +1,6 @@
 
 /* Phone */
-@media (min-width: 320px) {
+@media (min-width: 1px) {
     body {
         font-size: 20px;
     }
@@ -14,7 +14,7 @@
         }
 
         #header-logo {
-            width: 100%;
+            width: 50%;
             min-height: 3em !important;
             margin-left: 2em;
         }
