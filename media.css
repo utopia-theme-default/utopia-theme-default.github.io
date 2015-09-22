@@ -89,6 +89,10 @@
         width: 970px;
         margin-top: 0.5em;
     }
+        #middle #left-column #content-area .lobby-panel table {
+            width: 38% !important;
+        }
+
 }
 
 /* Full Width */
