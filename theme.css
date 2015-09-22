@@ -549,11 +549,11 @@ body {
                        }
 
                        #middle #left-column #content-area .game-content table.tablesorter thead td:first-child {
-                            width: 10%;
+                            width: 5%;
                        }
 
                        #middle #left-column #content-area .game-content table.tablesorter thead th:first-child {
-                            width: 10%;
+                            width: 5%;
                        }
 
                        #middle #left-column #content-area .game-content table.tablesorter thead tr th {
