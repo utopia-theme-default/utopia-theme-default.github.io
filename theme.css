@@ -111,6 +111,7 @@ body {
                                 margin: 0;
                                 padding: 0;
                                 text-align: left;
+                                width: 50%;
                             }
 
                             #middle #left-column #content-area .lobby-panel table tr {
@@ -122,6 +123,7 @@ body {
                                 margin: 0;
                                 padding: 0;
                                 text-align: left;
+                                width: 50%;
                             }
 
                         #middle #left-column #content-area .lobby-panel table .advice-message {
