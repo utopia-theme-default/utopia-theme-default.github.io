@@ -41,15 +41,17 @@
   }
     #header a {
         display: block;
-        width: 100%;
+        width: 95%;
     }
     #header-logo {
         width: 100%;
+        margin-left: 10em;
     }
         #header-navigation {
             display: inline-block;
             width: 100% !important;            
             padding-top: 0.5em;
+            margin-left: 12em;
         }
     #middle { 
         margin: 0 auto;
