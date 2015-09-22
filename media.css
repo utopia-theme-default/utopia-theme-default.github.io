@@ -126,6 +126,7 @@
 
         #middle #left-column #content-area .lobby-panel table {
             width: 70% !important;
+            font-size: 1vw !important;
         }
 }
 
