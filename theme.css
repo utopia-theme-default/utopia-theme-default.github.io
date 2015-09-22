@@ -48,6 +48,9 @@ body {
                 left: auto;
             }
 
+                #header #header-navigation div {
+                    padding: 3px !important;
+                }
                 #header-navigation a {
                     color: #9a2617;
                     text-decoration: none;
