@@ -474,7 +474,7 @@ body {
                         }
 
                        #middle #left-column #content-area .game-content table.data thead th {
-                            width: 25em;
+                            width: 25%;
                        }
 
                        #middle #left-column #content-area .game-content table.data thead td:first-child {
