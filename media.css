@@ -104,11 +104,15 @@
   }
     #header-logo {
         width: 100%;
+        margin-left: 3em !important;
     }
         #header-navigation {
             display: inline-block;
             margin-left: 0em !important;
         }
+            #header-navigation div:first-child {
+                margin-left: 12em;
+            }
     #middle { 
         margin: 0 auto;
         margin-left: auto;
