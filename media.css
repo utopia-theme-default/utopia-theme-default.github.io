@@ -58,6 +58,10 @@
         width: 750px;
         margin-top: 0.5em;
     }
+        #middle #left-column #content-area .lobby-panel table {
+            width: 38% !important;
+            font-size: 1.5vw !important;
+        }
 }
 
 /* Laptop */
