@@ -613,7 +613,7 @@ body {
             }
 
         #bookmark-container { 
-            display: none;
+            display: none !important;
         }
         
         .advice-message { display: none !important; }
