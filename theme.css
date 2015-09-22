@@ -225,6 +225,10 @@ body {
                         font-weight: 700;
                         font-size: 16px;
                         margin-right: 0.5em;
+                        position: absolute;
+                        color: wheat;
+                        left: 50%;
+                        right: 0px;
                     } 
 
                     #middle #left-column #content-area #game-navigation div {
