@@ -1,4 +1,4 @@
-utopia-theme-default.github.io
+castellum.github.io
 ==============================
 
-The default CSS theme of http://utopia-game.com
+The Custom CSS theme of http://utopia-game.com
