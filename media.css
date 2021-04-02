@@ -1,0 +1,268 @@
+
+/* Phone */
+@media (min-width: 1px) {
+    body {
+        font-size: 20px;
+    }
+      #header {
+        width: 100% !important;
+        padding-bottom: 0em !important;
+      }
+        #header a {
+            display: block;
+            width: 99%;
+        }
+
+        #header-logo {
+            width: 90%;
+            min-height: 3em !important;
+            margin-left: 2em;
+        }
+
+            #header-navigation {
+                display: inline-block;
+                width: 100% !important;            
+                padding-top: 0.5em;
+                margin-left: 0em;
+                font-size: 14px;
+            }
+
+                #header-navigation div:first-child {
+                    margin-left: 8% !important;
+                }
+
+            #account-header {
+                display: none !important;
+            }
+
+                #account-header div {
+                    float: none;
+                    clear: both;
+                    margin-right: 1em !important;
+                }
+
+        #middle { 
+            margin: 0 auto;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 0.5em;
+        }
+
+            #middle #left-column #content-area .lobby-panel table {
+                width: 100% !important;
+            }
+                #middle #left-column #content-area .lobby-panel table tr {
+                    font-size: 12px;
+                }
+
+                #middle #left-column #content-area .lobby-panel table td {
+                    font-size: 12px;
+                }
+
+                #middle #left-column #content-area .lobby-panel h1 {
+                    font-size: 30px;
+                }
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+  #header {
+    width: 100% !important;
+    padding-bottom: 0em !important;
+  }
+    #header a {
+        display: inline-block;
+        width: 32%;
+    }
+    #header-logo {
+        width: 100%;
+        margin-left: 10%;
+    }
+        #header-navigation {
+            display: inline-block;
+            width: 67% !important;            
+            padding-top: 0.5em;
+            margin-left: 0em;
+        }
+            #header-navigation div:first-child {
+                margin-left: 5% !important;
+            }
+    #middle { 
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 750px;
+        margin-top: 0.5em;
+    }
+        #middle #left-column #content-area .lobby-panel table {
+            width: 75% !important;
+        }
+
+            #middle #left-column #content-area .lobby-panel table tr {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .lobby-panel table td {
+                font-size: 14px;
+            }
+}
+
+/* Laptop */
+@media (min-width: 992px) {
+  #header {
+    width: 100% !important;
+  }
+    #header a {
+        display: inline-block;
+        width: 30%;
+        margin-left: 0%;                              
+    }
+    #header-logo {
+        width: 100%;
+        margin-left: 8em;
+    }
+        #header-navigation {
+            display: inline-block;
+            width: 68% !important;
+        }
+            #header-navigation div:first-child {
+                margin-left: 12em !important;
+            }
+    #middle { 
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 970px;
+        margin-top: 0.5em;
+    }
+        #middle #left-column #content-area .lobby-panel table {
+            width: 55% !important;
+        }
+            #middle #left-column #content-area .lobby-panel table th {
+                margin: 0;
+                padding: 0;
+                text-align: left;
+                width: 50%;
+                line-height: 1.6em;
+                padding-left: 5% !important;
+            }
+}
+
+/* Full Width */
+@media (min-width: 1200px) {
+  #header {
+    width: 100% !important;
+  }
+    #header a {
+        display: inline-block;
+        width: 30%;
+        margin-left: 18%;                              
+    }
+    #header-logo {
+        width: 100%;
+        margin-left: 3em !important;
+    }
+        #header-navigation {
+            display: inline-block;
+            margin-left: 0em !important;
+            width: 50% !important;
+        }
+            #header-navigation div:first-child {
+                margin-left: 15% !important;
+            }
+    #middle { 
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1170px;
+        margin-top: 0.5em;
+    }
+        #middle #left-column #content-area .lobby-panel h1 {
+            font-size: 2vw;
+        }
+
+        #middle #left-column #content-area .lobby-panel table {
+            width: 55% !important;
+            font-size: 18px !important;
+        }
+            #middle #left-column #content-area #resource-bar thead tr th {
+                width: 6.5em;
+                text-align: left;
+                font-size: 16px;
+            }
+
+            #middle #left-column #content-area #resource-bar thead tr th:last-child {
+                width: 8em;
+                text-align: left;
+            }
+
+            #middle #left-column #content-area #resource-bar tbody tr th {
+                width: 6.5em;
+                text-align: left;
+                font-size: 16px;
+            }
+
+            #middle #left-column #content-area #resource-bar tbody tr th:last-child {
+                width: 8em;
+                text-align: left;
+            }
+
+            #middle #left-column #content-area #game-navigation .navigation {
+                margin-top: 15px;
+            }
+
+            #middle #left-column #content-area #game-navigation .navigation div {
+                margin: 0;
+                padding: 0;
+                float: left;
+                position: relative;
+            }
+
+            #middle #left-column #content-area #game-navigation .navigation div a {
+                padding: 0 15px;
+                line-height: 32px;
+                font-size: 12px;
+                font-weight: 700;
+                text-decoration: none;
+                display: block;
+            }
+            #middle #left-column #content-area .game-content table.three-column-stats th {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table.three-column-stats td {
+                font-size: 14px;
+            }
+            #middle #left-column #content-area .game-content table.math-table th {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table.math-table td {
+                font-size: 14px;
+            }
+            #middle #left-column #content-area .game-content table.data th {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table.data td {
+                font-size: 14px;
+            }
+            #middle #left-column #content-area .game-content table.schedule th {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table.schedule td {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table th {
+                font-size: 14px;
+            }
+
+            #middle #left-column #content-area .game-content table td {
+                font-size: 14px;
+            }
+
+}
+
+
